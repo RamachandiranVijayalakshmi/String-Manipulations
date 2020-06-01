@@ -1,4 +1,4 @@
-#student mark list
+#Palindrome
 name=input('enter your world:')
 a=name.lower()
 if a==a[::-1]:

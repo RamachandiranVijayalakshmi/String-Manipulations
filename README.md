@@ -9,6 +9,8 @@ In else, its is not a palindrome.
 
 
 Sample code to check whether a word is Palindrome or not:
+
+
 name=input('enter your world:')
 a=name.lower()
 if a==a[::-1]:
